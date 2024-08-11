@@ -1,0 +1,40 @@
+html, body {
+    font-family: Arial, sans-serif;
+}
+
+.container{
+    font-size:20px !important;
+    justify-content: center;
+    width: 1200px;
+    height: 150x;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.1); 
+    border: 1px solid #f0f0f0;
+    margin: auto !important;
+    padding: 20px;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: bold !important;
+    text-align: center;
+}
+
+h2{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.box{
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+}
+
+
+
